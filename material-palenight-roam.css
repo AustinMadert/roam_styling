@@ -1,0 +1,114 @@
+@import url('https://abhayprasanna.github.io/better-dark-age.css');
+
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Noto+Sans+Mono|Bitter|Work+Sans');
+
+@media (prefers-color-scheme: light) {
+    :root {
+        /* FONTS */
+        --global-font: 'Work Sans', sans-serif;
+        --secondary-font: 'Noto Sans Mono', monospace;
+        --header-font: 'Bitter', serif;
+        /* WIDTH FIXES - default 568px,1032px - increase to increase WIDTH */
+        --reduce-padding-right: 3400px;
+        --reduce-padding-left: 3400px;
+        /* COLORS - One light*/
+        --page-links: #283593;
+        --attributes-color: #986801;
+        --external-links: #50A14E;
+        --links-hover: #E4564A;
+        --hashtags: #A626A4;
+        --body-text: #292D31;
+        --italics-color: #E4564A;
+        --bold-color: #0184BC;
+        --highlight-text-color: #292D31;
+        --highlighter: #FFFF80;
+        --background: #FAFAFA;
+        --sidebar-background: #EAEAEB;
+        --sidebar-text: #292D31;
+        --page-heading: #283593;
+        --daily-heading: #283593;
+        --heading1: #292D31;
+        --heading2: #292D31;
+        --heading3: #292D31;
+        --bullets: #3F51B5;
+        --closed-bullets: #3F51B577;
+        --references: #3F51B5;
+        --block-reference-text: #0184BC;
+        --namespaces: #E4564A;
+        --all-pages-mentions: #0184BC;
+        --cursor: #292D31;
+        --icons: #3F51B5;
+        --icons-hover: #E4564A;
+        --filter-icon: #50A14E;
+        /* FONT SIZES */
+        --page-head-font-size: 2.2em;
+        /* DROPDOWN MENU */
+        --dropdown-menu-background: #EAEAEB;
+        --dropdown-menu-highlight: #FAFAFA;
+        --dropdown-menu-text: #292D31;
+        --dropdown-newpage: #0184BC;
+        /* SEARCH BAR */
+        --search-bar-background: #F7F8FA;
+        --search-bar-text: #292D31;
+        /* KANBAN CARD COLORS */
+        --kanban-main-background: #FAFAFA;
+        --kanban-column-background: #EAEAEB;
+        --kanban-card-background: #FAFAFA;
+        --kanban-text-hover: #E4564A;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* FONTS */
+        --global-font: 'Work Sans', sans-serif;
+        --secondary-font: 'Noto Sans Mono', monospace;
+        --header-font: 'Bitter', serif;
+        /* WIDTH FIXES - default 568px,1032px - increase to increase WIDTH */
+        --reduce-padding-right: 3400px;
+        --reduce-padding-left: 3400px;
+        /* COLORS (HT: Mike Judd for the recommendation */
+        --page-links: #80cbc4;
+        --attributes-color: #f07178;
+        --external-links: #c3e88d;
+        --links-hover: #c792ea;
+        --hashtags: #89ddff;
+        --body-text: #EBEDDF;
+        --italics-color: #A30F0F;
+        --bold-color: #55D44E;
+        --highlight-text-color: #EBEDDF;
+        --highlighter: #444267;
+        /* --background              : #292D3E; */
+        --background: #000e12;
+        --sidebar-background: #011F26;
+        --sidebar-text: #EBEDDF;
+        --page-heading: #80cbc4;
+        --daily-heading: #80cbc4;
+        --headings: #EBEDDF;
+        --bullets: #80cbc4;
+        --closed-bullets: #8A89B3;
+        --references: #80cbc4;
+        --block-reference-text: #55D44E;
+        --namespaces: #A30F0F;
+        --all-pages-mentions: #55D44E;
+        --cursor: #EBEDDF;
+        --icons: #80cbc4;
+        --icons-hover: #c792ea;
+        --filter-icon: #c3e88d;
+        /* FONT SIZES */
+        --page-head-font-size: 2.2em;
+        /* DROPDOWN MENU */
+        --dropdown-menu-background: #3B415C;
+        --dropdown-menu-highlight: #292D3E;
+        --dropdown-menu-text: #EBEDDF;
+        --dropdown-newpage: #55D44E;
+        /* SEARCH BAR */
+        --search-bar-background: #01151A;
+        --search-bar-text: #EBEDDF;
+        /* KANBAN CARD COLORS */
+        --kanban-main-background: #292D3E;
+        --kanban-column-background: #3B415C;
+        --kanban-card-background: #292D3E;
+        --kanban-text-hover: #c792ea;
+    }
+}
