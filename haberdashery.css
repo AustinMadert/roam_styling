@@ -213,7 +213,7 @@ div.roam-block-container:hover>div:nth-child(2)>.roam-block-container {
     border-left-color: #000000;
     transition: border-left-color 0.5s ease-in-out;
 
-    box-shadow: -1.5px 0px 0px 0px #4F400E;
+    box-shadow: -1.5px 0px 0px 0px #A30F0F;
     transition: box-shadow 0.5s;
 
 }
@@ -229,13 +229,13 @@ span.rm-page-ref[data-tag="Seedling Notes"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     border-style: solid;
-    border-color: #f21da140;
+    border-color: #4F400E;
     border-width: thin;
     position: relative;
 
 
-    box-shadow: 0px 1px 3px -1px #000000,
-        0px -1px 5px #DFDFDF;
+    box-shadow: 0px 1px 3px -1px #DFDFDF,
+        0px -1px 5px #000000;
 
 
 }
@@ -250,13 +250,13 @@ span.rm-page-ref[data-tag="Literature Notes"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     border-style: solid;
-    border-color: #f21da140;
+    border-color: #4F400E;
     border-width: thin;
     position: relative;
 
 
-    box-shadow: 0px 1px 3px -1px #000000,
-        0px -1px 5px #DFDFDF;
+    box-shadow: 0px 1px 3px -1px #DFDFDF,
+        0px -1px 5px #000000;
 
 
 }
@@ -271,13 +271,13 @@ span.rm-page-ref[data-tag="Reference Notes"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     border-style: solid;
-    border-color: #f21da140;
+    border-color: #4F400E;
     border-width: thin;
     position: relative;
 
 
-    box-shadow: 0px 1px 3px -1px #000000,
-        0px -1px 5px #DFDFDF;
+    box-shadow: 0px 1px 3px -1px #DFDFDF,
+        0px -1px 5px #000000;
 
 
 }
@@ -292,13 +292,13 @@ span.rm-page-ref[data-tag="Hub Notes"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     border-style: solid;
-    border-color: #f21da140;
+    border-color: #4F400E;
     border-width: thin;
     position: relative;
 
 
-    box-shadow: 0px 1px 3px -1px #000000,
-        0px -1px 5px #DFDFDF;
+    box-shadow: 0px 1px 3px -1px #DFDFDF,
+        0px -1px 5px #000000;
 
 
 }
@@ -318,8 +318,8 @@ span.rm-page-ref[data-tag="Zettels"] {
     position: relative;
 
 
-    box-shadow: 0px 1px 3px -1px #000000,
-        0px -1px 5px #DFDFDF;
+    box-shadow: 0px 1px 3px -1px #DFDFDF,
+        0px -1px 5px #000000;
 
 
 }
