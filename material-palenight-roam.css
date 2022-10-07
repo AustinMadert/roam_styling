@@ -74,8 +74,8 @@
         --links-hover: #c792ea;
         --hashtags: #89ddff;
         --body-text: #EBEDDF;
-        --italics-color: #A30F0F;
-        --bold-color: #55D44E;
+        --italics-color: #55D44E;
+        --bold-color: #A30F0F;
         --highlight-text-color: #EBEDDF;
         --highlighter: #444267;
         /* --background              : #292D3E; */
@@ -88,9 +88,9 @@
         --bullets: #80cbc4;
         --closed-bullets: #8A89B3;
         --references: #80cbc4;
-        --block-reference-text: #55D44E;
+        --block-reference-text: #F7E7BC;
         --namespaces: #A30F0F;
-        --all-pages-mentions: #55D44E;
+        --all-pages-mentions: #F7E7BC;
         --cursor: #EBEDDF;
         --icons: #80cbc4;
         --icons-hover: #c792ea;
@@ -101,7 +101,7 @@
         --dropdown-menu-background: #3B415C;
         --dropdown-menu-highlight: #292D3E;
         --dropdown-menu-text: #EBEDDF;
-        --dropdown-newpage: #55D44E;
+        --dropdown-newpage: #F7E7BC;
         /* SEARCH BAR */
         --search-bar-background: #01151A;
         --search-bar-text: #EBEDDF;
