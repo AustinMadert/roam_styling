@@ -74,13 +74,13 @@
         --links-hover: #c792ea;
         --hashtags: #89ddff;
         --body-text: #EBEDDF;
-        --italics-color: #55D44E;
-        --bold-color: #A30F0F;
+        --italics-color: #f78c6c;
+        --bold-color: #ffcb6b;
         --highlight-text-color: #EBEDDF;
         --highlighter: #444267;
         /* --background              : #292D3E; */
-        --background: #1a1c1f;
-        --sidebar-background: #011F26;
+        --background: #2a2c30;
+        --sidebar-background: #013440;
         --sidebar-text: #EBEDDF;
         --page-heading: #80cbc4;
         --daily-heading: #80cbc4;
