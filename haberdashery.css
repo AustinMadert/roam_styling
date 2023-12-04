@@ -388,3 +388,66 @@ span.rm-page-ref[data-tag="Boons"] {
 
 
 }
+
+span.rm-page-ref[data-tag="Personas"] {
+    background: #fff;
+    background-size: 100%;
+    color: #000;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+    border-color: #4F400E;
+    border-width: thin;
+    position: relative;
+
+
+    box-shadow: 0px 1px 3px -1px #DFDFDF,
+        0px -1px 5px #000000;
+
+
+}
+
+span.rm-page-ref[data-tag="Solutions"] {
+    background: #fff;
+    background-size: 100%;
+    color: #000;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+    border-color: #4F400E;
+    border-width: thin;
+    position: relative;
+
+
+    box-shadow: 0px 1px 3px -1px #DFDFDF,
+        0px -1px 5px #000000;
+
+
+}
+
+span.rm-page-ref[data-tag="Resolutions"] {
+    background: #fff;
+    background-size: 100%;
+    color: #000;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+    border-color: #4F400E;
+    border-width: thin;
+    position: relative;
+
+
+    box-shadow: 0px 1px 3px -1px #DFDFDF,
+        0px -1px 5px #000000;
+
+
+}
